@@ -1,6 +1,6 @@
 ---
 title: About Me
-feature_text: 
+feature_text: |
   ## Jiang Zhihan
   I'm a undergraduated student in Jilin University majoring in Software Engineering, and wil start my PhD life in Nanjing University.
 feature_image: "https://picsum.photos/1300/400?image=989"
