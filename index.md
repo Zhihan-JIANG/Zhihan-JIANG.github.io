@@ -1,7 +1,7 @@
 ---
 title: About Me
 feature_text: 
-  ## Jiang Zhihan
+  ## Alembic
   I'm a undergraduated student in Jilin University majoring in Software Engineering, and wil start my PhD life in Nanjing University.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "I specialize in things like filters and edge intelligence and love computer science, cars, and movies. If you have any questions or comments about my work, feel free to contact me. Here is my contact information: zhihan_jiang@foxmail.com."
