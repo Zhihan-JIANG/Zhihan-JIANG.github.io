@@ -9,7 +9,7 @@ excerpt: "I specialize in things like filters and edge intelligence and love com
 
 I specialize in things like filters and edge intelligence and love computer science, cars, and movies. If you have any questions or comments about my work, feel free to contact me. Here is my contact information: zhihan_jiang@foxmail.com.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="../asset/buy-me-a-coffee.jpg" color="#f68140" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="![buy-me-a-coffee](../assets/buy-me-a-coffee.jpg)" color="#f68140" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
 
 ## Education Backgrounds
 
