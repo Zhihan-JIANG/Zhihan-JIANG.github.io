@@ -11,7 +11,7 @@ I specialize in things like filters and edge intelligence and love computer scie
 
 ## Education Backgrounds
 
-- Zhenghou No.1 Middle School, 2018.09-2021.06
+- Zhengzhou No.1 Middle School, 2018.09-2021.06
 - Jilin University
   - Bachelor of Software Engineering, Expected Graduation: 2025
   - Relevant coursework: Data Structure, probability and mathematical statistics, Linear Algebra, Operating System, et cetera.
