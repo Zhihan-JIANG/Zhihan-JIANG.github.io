@@ -18,5 +18,5 @@ I specialize in things like filters and edge intelligence and love computer scie
   - Key projects: Developed a gaming algorithm for connect six based on alphabeta cut-off, built up a blog website using django, et cetera.
 - Nanjing University
   - PhD in Computer Science, Supervised by: Prof. Dai Haipeng, Starting: 2025
-  - Research interests: edge computing.
+  - Research interests: edge computing, range filter.
 
