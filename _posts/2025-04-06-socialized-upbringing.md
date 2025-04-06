@@ -2,7 +2,7 @@
 title: 社会化抚养
 categories:
 - 杂谈
-- excerpt: |
+excerpt:
   聊聊社会化抚养
 feature_image: "https://fastly.picsum.photos/id/18/2500/1667"
 ---
